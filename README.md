@@ -26,14 +26,14 @@ The HR Salary Analysis Dashboard provides insights into employee salary distribu
 ---
 # 📊 Sample Dashboard:
 
-<img width="590" height="338" alt="HR_Salary_Analysis_Dashboard1" src="https://github.com/user-attachments/assets/363e9f79-5533-4c8e-a53b-76a5f8ba4f56" />
+<img width="690" height="338" alt="HR_Salary_Analysis_Dashboard1" src="https://github.com/user-attachments/assets/363e9f79-5533-4c8e-a53b-76a5f8ba4f56" />
 
 
 
 
 ---
 
-<img width="595" height="338" alt="HR_Salary_Analysis_Dashboard2" src="https://github.com/user-attachments/assets/2bf86a59-0d5c-4b27-bbe8-d7fcb4539211" />
+<img width="695" height="338" alt="HR_Salary_Analysis_Dashboard2" src="https://github.com/user-attachments/assets/2bf86a59-0d5c-4b27-bbe8-d7fcb4539211" />
 
 
 
@@ -45,7 +45,7 @@ The HR Salary Analysis Dashboard provides insights into employee salary distribu
 
 ---
 
-<img width="596" height="335" alt="HR_Salary_Analysis_Dashboard4" src="https://github.com/user-attachments/assets/5a3fc7f7-ae14-43f8-8305-f2b48e55e682" />
+<img width="696" height="335" alt="HR_Salary_Analysis_Dashboard4" src="https://github.com/user-attachments/assets/5a3fc7f7-ae14-43f8-8305-f2b48e55e682" />
 
 
 
