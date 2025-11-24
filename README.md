@@ -39,7 +39,7 @@ The HR Salary Analysis Dashboard provides insights into employee salary distribu
 
 ---
 
-<img width="605" height="343" alt="HR_Salary_Analysis_Dashboard3" src="https://github.com/user-attachments/assets/4ab4ecca-260b-4031-bbdb-10bf5c6c3623" />
+<img width="705" height="343" alt="HR_Salary_Analysis_Dashboard3" src="https://github.com/user-attachments/assets/4ab4ecca-260b-4031-bbdb-10bf5c6c3623" />
 
 
 
