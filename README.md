@@ -6,7 +6,7 @@ The HR Salary Analysis Dashboard provides insights into employee salary distribu
 
 ---
 
-# 🎯 Project Objectives:
+## 🎯 Project Objectives:
 
 - 🎯 Salary comparison by Department, Gender & Experience
 - 📈 Identify top earners & high performers
@@ -31,15 +31,19 @@ The HR Salary Analysis Dashboard provides insights into employee salary distribu
 
 
 
+---
+
 <img width="595" height="338" alt="HR_Salary_Analysis_Dashboard2" src="https://github.com/user-attachments/assets/2bf86a59-0d5c-4b27-bbe8-d7fcb4539211" />
 
 
 
+---
 
 <img width="605" height="343" alt="HR_Salary_Analysis_Dashboard3" src="https://github.com/user-attachments/assets/4ab4ecca-260b-4031-bbdb-10bf5c6c3623" />
 
 
 
+---
 
 <img width="596" height="335" alt="HR_Salary_Analysis_Dashboard4" src="https://github.com/user-attachments/assets/5a3fc7f7-ae14-43f8-8305-f2b48e55e682" />
 
@@ -47,7 +51,8 @@ The HR Salary Analysis Dashboard provides insights into employee salary distribu
 
 
 
---
+---
+
 # 📈 Key Insights:
 
 - 📌 More experienced employees earn significantly higher salaries
@@ -82,10 +87,10 @@ This HR analytics solution empowers organizations to:
 
 # 📥 How to Use:
 
-1️⃣ Download .pbix file
-2️⃣ Open in Power BI Desktop
-3️⃣ Replace dataset with your company HR data
-4️⃣ Refresh visuals → Dashboard auto-updates 🎉
+- 1️⃣ Download .pbix file
+- 2️⃣ Open in Power BI Desktop
+- 3️⃣ Replace dataset with your company HR data
+- 4️⃣ Refresh visuals → Dashboard auto-updates 🎉
 
 ---
 
